@@ -7,3 +7,5 @@ If you are not part of the official Lost Survivor Discord you can join here --> 
 Lost Survivor DayZ server Name, IP and Port --> Lost Survivor US Main 37.10.124.213 21000
 
 If you would like to support us read the Funding.yml file under the .github folder. --- Lost Survivor Head Council.
+
+This tool can help you edit the Trader Config file just download the file from this link --> https://drive.google.com/file/d/1iXYD0JhXfxrGvFeq5_CBS7tuoBkDwkxX/view
